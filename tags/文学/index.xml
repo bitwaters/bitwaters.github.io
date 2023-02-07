@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>文学 - 标签 - Bit Waters</title>
+        <link>https://bitwaters.github.io/tags/%E6%96%87%E5%AD%A6/</link>
+        <description>文学 - 标签 - Bit Waters</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zzyangmaofeng@gmail.com (YANG)</managingEditor>
+            <webMaster>zzyangmaofeng@gmail.com (YANG)</webMaster><lastBuildDate>Sat, 28 Jan 2023 21:19:49 &#43;0000</lastBuildDate><atom:link href="https://bitwaters.github.io/tags/%E6%96%87%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+    <title>读过的书</title>
+    <link>https://bitwaters.github.io/posts/%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6.html/</link>
+    <pubDate>Sat, 28 Jan 2023 21:19:49 &#43;0000</pubDate>
+    <author>YANG</author>
+    <guid>https://bitwaters.github.io/posts/%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6.html/</guid>
+    <description><![CDATA[读万卷书，行万里路。 活着 三体 长安的荔枝]]></description>
+</item>
+</channel>
+</rss>

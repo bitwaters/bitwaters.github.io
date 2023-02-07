@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Bit Waters</title>
+        <link>https://bitwaters.github.io/</link>
+        <description>这是我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zzyangmaofeng@gmail.com (YANG)</managingEditor>
+            <webMaster>zzyangmaofeng@gmail.com (YANG)</webMaster><lastBuildDate>Tue, 07 Feb 2023 17:04:17 &#43;0000</lastBuildDate>
+            <atom:link href="https://bitwaters.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test</title>
+    <link>https://bitwaters.github.io/posts/Test.html/</link>
+    <pubDate>Tue, 07 Feb 2023 17:04:17 &#43;0000</pubDate>
+    <author>YANG</author>
+    <guid>https://bitwaters.github.io/posts/Test.html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>读过的书</title>
+    <link>https://bitwaters.github.io/posts/%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6.html/</link>
+    <pubDate>Sat, 28 Jan 2023 21:19:49 &#43;0000</pubDate>
+    <author>YANG</author>
+    <guid>https://bitwaters.github.io/posts/%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6.html/</guid>
+    <description><![CDATA[读万卷书，行万里路。 活着 三体 长安的荔枝]]></description>
+</item>
+<item>
+    <title>MarkDown语法</title>
+    <link>https://bitwaters.github.io/posts/MarkDown%E8%AF%AD%E6%B3%95.html/</link>
+    <pubDate>Sat, 28 Jan 2023 16:24:25 &#43;0000</pubDate>
+    <author>YANG</author>
+    <guid>https://bitwaters.github.io/posts/MarkDown%E8%AF%AD%E6%B3%95.html/</guid>
+    <description><![CDATA[持续更新使用MarkDown所遇到的问题，避免忘记！ 首行缩进 在段落前方使用2个&amp;#8195;即可缩进2个汉字 1 &amp;#8195;]]></description>
+</item>
+<item>
+    <title>记录一下新冠小阳人</title>
+    <link>https://bitwaters.github.io/posts/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%96%B0%E5%86%A0%E5%B0%8F%E9%98%B3%E4%BA%BA.html/</link>
+    <pubDate>Thu, 26 Jan 2023 16:29:34 &#43;0000</pubDate>
+    <author>YANG</author>
+    <guid>https://bitwaters.github.io/posts/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%96%B0%E5%86%A0%E5%B0%8F%E9%98%B3%E4%BA%BA.html/</guid>
+    <description><![CDATA[记录一下新冠小阳人的日子 2022年8月28日 科特迪瓦🇨🇮 由于抵抗力差和时差的问题，变成了小阳人，同行的同事都没有问题。好了之后要加强锻炼了。]]></description>
+</item>
+</channel>
+</rss>
