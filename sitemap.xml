@@ -2,20 +2,23 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://bitwaters.github.io/posts/23%E5%B9%B42%E6%9C%88%E5%B7%A5%E4%BD%9C%E6%97%A5%E6%8A%A5.html/</loc><lastmod>2023-02-07T18:33:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/</loc><lastmod>2023-02-07T18:33:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/categories/</loc><lastmod>2023-02-07T18:33:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/posts/</loc><lastmod>2023-02-07T18:33:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/tags/</loc><lastmod>2023-02-07T18:33:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/categories/%E5%B7%A5%E4%BD%9C%E6%97%A5%E6%8A%A5/</loc><lastmod>2023-02-07T18:33:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/tags/%E6%97%A5%E6%8A%A5/</loc><lastmod>2023-02-07T18:33:30&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/posts/%E8%AF%BB%E8%BF%87%E7%9A%84%E4%B9%A6.html/</loc><lastmod>2023-02-02T17:19:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/categories/%E4%B9%A6%E7%B1%8D/</loc><lastmod>2023-02-02T17:19:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/tags/%E6%96%87%E5%AD%A6/</loc><lastmod>2023-02-02T17:19:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/tags/%E5%B0%8F%E8%AF%B4/</loc><lastmod>2023-02-02T17:19:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/categories/MarkDown/</loc><lastmod>2023-02-02T17:24:22&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/tags/MarkDown%E8%AF%AD%E6%B3%95/</loc><lastmod>2023-02-02T17:24:22&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/posts/MarkDown%E8%AF%AD%E6%B3%95.html/</loc><lastmod>2023-02-02T17:24:22&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/posts/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E6%96%B0%E5%86%A0%E5%B0%8F%E9%98%B3%E4%BA%BA.html/</loc><lastmod>2023-02-02T17:19:09&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/categories/%E9%9A%8F%E7%AC%94/</loc><lastmod>2023-02-02T17:19:09&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://bitwaters.github.io/tags/%E6%96%B0%E5%86%A0/</loc><lastmod>2023-02-02T17:19:09&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://bitwaters.github.io/posts/1.html/</loc><lastmod>2023-02-07T21:34:08&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/</loc><lastmod>2023-02-07T21:34:08&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/categories/</loc><lastmod>2023-02-07T21:34:08&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/tags/Hugo/</loc><lastmod>2023-02-07T21:31:25&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/categories/Hugo/</loc><lastmod>2023-02-07T21:31:25&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/posts/5.html/</loc><lastmod>2023-02-07T21:31:25&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/posts/</loc><lastmod>2023-02-07T21:34:08&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/tags/</loc><lastmod>2023-02-07T21:34:08&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/tags/%E6%96%BD%E5%B7%A5/</loc><lastmod>2023-02-07T21:34:08&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/categories/%E6%96%BD%E5%B7%A5%E6%97%A5%E5%BF%97/</loc><lastmod>2023-02-07T21:34:08&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/posts/4.html/</loc><lastmod>2023-02-07T21:24:54&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/categories/%E4%B9%A6%E7%B1%8D/</loc><lastmod>2023-02-07T21:24:54&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/tags/%E6%96%87%E5%AD%A6/</loc><lastmod>2023-02-07T21:24:54&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/tags/%E5%B0%8F%E8%AF%B4/</loc><lastmod>2023-02-07T21:24:54&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/categories/MarkDown/</loc><lastmod>2023-02-07T21:24:49&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/tags/MarkDown%E8%AF%AD%E6%B3%95/</loc><lastmod>2023-02-07T21:24:49&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/posts/2.html/</loc><lastmod>2023-02-07T21:24:49&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/posts/3.html/</loc><lastmod>2023-02-07T21:24:51&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/categories/%E9%9A%8F%E7%AC%94/</loc><lastmod>2023-02-07T21:24:51&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://bitwaters.github.io/tags/%E6%96%B0%E5%86%A0/</loc><lastmod>2023-02-07T21:24:51&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
