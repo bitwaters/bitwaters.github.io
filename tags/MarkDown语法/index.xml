@@ -6,10 +6,10 @@
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zzyangmaofeng@gmail.com (YANG)</managingEditor>
             <webMaster>zzyangmaofeng@gmail.com (YANG)</webMaster><lastBuildDate>Sat, 28 Jan 2023 16:24:25 &#43;0000</lastBuildDate><atom:link href="https://bitwaters.github.io/tags/MarkDown%E8%AF%AD%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
     <title>MarkDown语法</title>
-    <link>https://bitwaters.github.io/posts/2.html/</link>
+    <link>https://bitwaters.github.io/posts/markdown.html/</link>
     <pubDate>Sat, 28 Jan 2023 16:24:25 &#43;0000</pubDate>
     <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/2.html/</guid>
+    <guid>https://bitwaters.github.io/posts/markdown.html/</guid>
     <description><![CDATA[持续更新使用MarkDown所遇到的问题，避免忘记！ 首行缩进 在段落前方使用2个&amp;#8195;即可缩进2个汉字 1 &amp;#8195;]]></description>
 </item>
 </channel>
