@@ -4,46 +4,14 @@
         <link>https://bitwaters.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zzyangmaofeng@gmail.com (YANG)</managingEditor>
-            <webMaster>zzyangmaofeng@gmail.com (YANG)</webMaster><lastBuildDate>Sun, 12 Feb 2023 21:46:50 &#43;0000</lastBuildDate>
+            <webMaster>zzyangmaofeng@gmail.com (YANG)</webMaster><lastBuildDate>Fri, 10 Feb 2023 20:44:41 &#43;0000</lastBuildDate>
             <atom:link href="https://bitwaters.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>2月任务清单</title>
-    <link>https://bitwaters.github.io/posts/task1.html/</link>
-    <pubDate>Sun, 12 Feb 2023 21:46:50 &#43;0000</pubDate>
-    <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/task1.html/</guid>
-    <description><![CDATA[在正式开工之前，所以进场人员需提前告知业主 现场签协议等问题需事先联系业主 2月12日 完成地形图测量 目前完成进度90% 确认征地范围 2月11日设计]]></description>
-</item>
-<item>
-    <title>23年2月工作日志</title>
-    <link>https://bitwaters.github.io/posts/const1.html/</link>
-    <pubDate>Tue, 07 Feb 2023 17:04:17 &#43;0000</pubDate>
-    <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/const1.html/</guid>
-    <description><![CDATA[2月3日 周五 项目部组织进行控制点引测和变电站道路原始地貌高程测量，该工作是由中甘国际测量队完成。 到达现场进行驻点。 天气：晴，气温：24~33]]></description>
-</item>
-<item>
-    <title>科特迪瓦</title>
-    <link>https://bitwaters.github.io/posts/%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6.html/</link>
-    <pubDate>Fri, 10 Feb 2023 20:45:10 &#43;0000</pubDate>
-    <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6.html/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>规范与标准</title>
-    <link>https://bitwaters.github.io/posts/%E8%A7%84%E8%8C%83%E4%B8%8E%E6%A0%87%E5%87%86.html/</link>
+    <link>https://bitwaters.github.io/posts/Const4.html/</link>
     <pubDate>Fri, 10 Feb 2023 20:44:41 &#43;0000</pubDate>
     <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/%E8%A7%84%E8%8C%83%E4%B8%8E%E6%A0%87%E5%87%86.html/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>地勘测量</title>
-    <link>https://bitwaters.github.io/posts/%E5%9C%B0%E5%8B%98%E6%B5%8B%E9%87%8F.html/</link>
-    <pubDate>Fri, 10 Feb 2023 20:43:56 &#43;0000</pubDate>
-    <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/%E5%9C%B0%E5%8B%98%E6%B5%8B%E9%87%8F.html/</guid>
+    <guid>https://bitwaters.github.io/posts/Const4.html/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -52,15 +20,7 @@
     <pubDate>Fri, 10 Feb 2023 20:35:40 &#43;0000</pubDate>
     <author>YANG</author>
     <guid>https://bitwaters.github.io/posts/Const2.html/</guid>
-    <description><![CDATA[资质报审 入场准备]]></description>
-</item>
-<item>
-    <title>Hugo</title>
-    <link>https://bitwaters.github.io/posts/hugo1.html/</link>
-    <pubDate>Tue, 07 Feb 2023 21:28:21 &#43;0000</pubDate>
-    <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/hugo1.html/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[人员 1 至少1名有经验的属地HSE工程师（超过50人的必须配备2名） 2 至少1名有经验的质量工程师 3 至少1名有经验的法语翻译 4 准备好所有管理人员]]></description>
 </item>
 <item>
     <title>读过的书</title>
@@ -68,7 +28,7 @@
     <pubDate>Sat, 28 Jan 2023 21:19:49 &#43;0000</pubDate>
     <author>YANG</author>
     <guid>https://bitwaters.github.io/posts/book.html/</guid>
-    <description><![CDATA[读万卷书，行万里路。 活着 三体 长安的荔枝]]></description>
+    <description><![CDATA[读万卷书，行万里路。 活着 三体 长安的荔枝 嫌疑人X的献身 放学后 妹妹的人生]]></description>
 </item>
 <item>
     <title>MarkDown语法</title>
@@ -77,14 +37,6 @@
     <author>YANG</author>
     <guid>https://bitwaters.github.io/posts/markdown.html/</guid>
     <description><![CDATA[持续更新使用MarkDown所遇到的问题，避免忘记！ 首行缩进 在段落前方使用2个&amp;#8195;即可缩进2个汉字 1 &amp;#8195;]]></description>
-</item>
-<item>
-    <title>记录一下新冠小阳人</title>
-    <link>https://bitwaters.github.io/posts/1.html/</link>
-    <pubDate>Thu, 26 Jan 2023 16:29:34 &#43;0000</pubDate>
-    <author>YANG</author>
-    <guid>https://bitwaters.github.io/posts/1.html/</guid>
-    <description><![CDATA[记录一下新冠小阳人的日子 2022年8月28日 科特迪瓦🇨🇮 由于抵抗力差和时差的问题，变成了小阳人，同行的同事都没有问题。好了之后要加强锻炼了。]]></description>
 </item>
 </channel>
 </rss>
